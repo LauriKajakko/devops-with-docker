@@ -1,0 +1,9 @@
+Script started on 2021-06-11 20:23:00+03:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="113" LINES="55"]
+[1;36m $ [0m exitdocker images[1Pps -a[C[C[C[C[8Pexitdocker ps -aimages[C[C[C[Cexit[K[Kexitdocker images[1Pps -a[C[C[C[C[8Pexitdocker ps -a
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+[1;36m $ [0m docker ia[Kmages
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+[1;36m $ [0m exit
+exit
+
+Script done on 2021-06-11 20:23:17+03:00 [COMMAND_EXIT_CODE="0"]

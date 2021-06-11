@@ -1,9 +1,8 @@
-Script started on 2020-06-11 20:27:25+03:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="113" LINES="55"]
-[1;36m $ [0m dokc[Kc[K[Kcker.[K ps -q[Ka
+ 
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
-[1;36m $ [0m docker images
+ $ docker images
 REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
-[1;36m $ [0m exit
+ $ exit
 exit
 
-Script done on 2021-06-11 20:27:47+03:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2021-06-11 20:30:49+03:00 [COMMAND_EXIT_CODE="0"]

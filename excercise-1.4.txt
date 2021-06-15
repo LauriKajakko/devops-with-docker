@@ -1,0 +1,8 @@
+$ docker run -d -it --name looper ubuntu sh -c 'echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website;'
+
+$ docker exec brrbrr apt-get update
+
+$ docker exec brrbrr apt-get install -y curl wget
+ 
+$ docker attach brrbrr
+helsinki.fi

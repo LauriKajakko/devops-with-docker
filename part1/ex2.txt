@@ -1,0 +1,8 @@
+ 
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+ $ docker images
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+ $ exit
+exit
+
+Script done on 2021-06-11 20:30:49+03:00 [COMMAND_EXIT_CODE="0"]

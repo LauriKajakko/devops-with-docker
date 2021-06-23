@@ -1,30 +1,0 @@
-Script started on 2021-06-11 21:35:46+03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="92" LINES="27"]
- $ exitdocker images[1Pps -a[C[C[C[8Pexitdocker images[1Pps -a[C[C[C[8Pexitdocker images[1Pps -a[C[C[Cnano .bashrc[C[C[Cla[K[Ks -la[Kcdgit pushcommit -m"2"[C[C[C[C[C[C[C[7Padd .[C[C[Cvim excercise-1.2.txt [C[C[C[13Pgit add .commit -m"2"[C[C[C[C[C[C[C[8Ppush[C[C[Ccd[K[1Pls -la[Kanano .bashrc[C[C[Cdocker ps -aimages[C[C[Cexit[Kdocker ps -aimages[C[C[Cexit[Kdocker ps -aimages[C[C[Cexit[K[Kdocker run -d -it -[C[K[C[1@ [1@-[1@-[1@r[1@m[C[C[C[C[C - n [1P - n a m e [C e x 3 [C devopsdockeruh/simple-web-service:ubuntu 
-b8d8758764161d0e9410ffd4b2d6107c75197d043880dfff86bc1f94af8c9e82
- $ docker run -d --rm -it --name ex3 devopsdockeruh/simple-web-service:ubuntu [C[C[Cexit[Kdocker images[1Pps -aimages[C[C[Cexit[Kdocker run -d --rm -it --name ex3 devopsdockeruh/simple-web-service:ubuntu [C[C[C[Kdocker exec -it looper bash[1P bash[1P bash[1P bash[1P bash[1P bash[1P bashe bashx bash3 bash
-]0;root@b8d875876416: /usr/src/approot@b8d875876416:/usr/src/app# tail -f ./text.log 
-Secret message is: 'You can find the source code here: https://github.com/docker-hy'
-2021-06-11 18:37:13 +0000 UTC
-2021-06-11 18:37:15 +0000 UTC
-2021-06-11 18:37:17 +0000 UTC
-2021-06-11 18:37:19 +0000 UTC
-2021-06-11 18:37:21 +0000 UTC
-Secret message is: 'You can find the source code here: https://github.com/docker-hy'
-2021-06-11 18:37:23 +0000 UTC
-2021-06-11 18:37:25 +0000 UTC
-2021-06-11 18:37:27 +0000 UTC
-2021-06-11 18:37:29 +0000 UTC
-2021-06-11 18:37:31 +0000 UTC
-Secret message is: 'You can find the source code here: https://github.com/docker-hy'
-2021-06-11 18:37:33 +0000 UTC
-2021-06-11 18:37:35 +0000 UTC
-2021-06-11 18:37:37 +0000 UTC
-2021-06-11 18:37:39 +0000 UTC
-2021-06-11 18:37:41 +0000 UTC
-^C
-]0;root@b8d875876416: /usr/src/approot@b8d875876416:/usr/src/app# exit
-exit
- $ exit
-exit
-
-Script done on 2021-06-11 21:37:50+03:00 [COMMAND_EXIT_CODE="130"]
